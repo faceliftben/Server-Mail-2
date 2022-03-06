@@ -1,0 +1,20 @@
+{
+	"_SeparatorBot": "949998728763281458",
+	"ownerID": "640256514267021314",
+	"cooldown": "10",
+	"maintenance": "0",
+	"language": "en_US",
+	"_SeparatorServer": "",
+	"mainServerID" : "945784684447682640",
+	"threadServerID" : "",
+	"categoryID" : "",
+	"logChannelID" : "",
+	"adminRoleID" : "",
+	"modRoleID" : "",
+	"mentionedRoleID" : "",
+	"_SeparatorColor": "",
+	"infoColor" : "#FF1932",
+	"receivedColor" : "#9696FF",
+	"sentColor" : "#32FF96",
+	"closeColor" : "#E6FF32"
+}
